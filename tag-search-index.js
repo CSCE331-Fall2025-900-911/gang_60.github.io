@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"All this does:","h":"class com.gang60.LoginController","d":"Section","u":"com.gang60/com/gang60/LoginController.html#all-this-does--heading"},{"l":"Constant Field Values","h":"","u":"constant-values.html"}];updateSearchResults();

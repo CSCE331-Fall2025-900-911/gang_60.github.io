@@ -1,0 +1,29 @@
+--class-path
+'C:/Users/lopez/.m2/repository/org/openjfx/javafx-controls/21.0.1/javafx-controls-21.0.1.jar;C:/Users/lopez/.m2/repository/org/openjfx/javafx-graphics/21.0.1/javafx-graphics-21.0.1.jar;C:/Users/lopez/.m2/repository/org/openjfx/javafx-base/21.0.1/javafx-base-21.0.1.jar;C:/Users/lopez/.m2/repository/org/openjfx/javafx-fxml/21.0.1/javafx-fxml-21.0.1.jar'
+--module-path
+'C:/Users/lopez/OneDrive/Documents/CSCE331/project2/project2-gang_60/BobaPOS/target/classes;C:/Users/lopez/.m2/repository/org/openjfx/javafx-fxml/21.0.1/javafx-fxml-21.0.1-win.jar;C:/Users/lopez/.m2/repository/org/postgresql/postgresql/42.7.3/postgresql-42.7.3.jar;C:/Users/lopez/.m2/repository/org/openjfx/javafx-controls/21.0.1/javafx-controls-21.0.1-win.jar;C:/Users/lopez/.m2/repository/org/openjfx/javafx-base/21.0.1/javafx-base-21.0.1-win.jar;C:/Users/lopez/.m2/repository/org/openjfx/javafx-graphics/21.0.1/javafx-graphics-21.0.1-win.jar'
+--patch-module
+com.gang60='C:/Users/lopez/OneDrive/Documents/CSCE331/project2/project2-gang_60/BobaPOS/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+--module-source-path
+'C:/Users/lopez/OneDrive/Documents/CSCE331/project2/project2-gang_60/BobaPOS/target/reports/apidocs/src'
+--ignore-source-errors
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/lopez/OneDrive/Documents/CSCE331/project2/project2-gang_60/BobaPOS/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BobaPOS 1.0.0 API'
+-use
+-version
+-windowtitle
+'BobaPOS 1.0.0 API'
